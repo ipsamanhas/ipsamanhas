@@ -1,8 +1,8 @@
 <table>
 <tr>
-<td width="35%" valign="top">
+<td width="45%" valign="top">
 
-<img src="image-removebg-preview.png" width="250">
+<img src="image-removebg-preview.png" width="350">
 
 </td>
 
@@ -14,6 +14,11 @@
 🤖 Previous AI4Good Lab Fellow @ Amii<br>
 💼 Current AI/ML Mentee @ RBC Borealis<br>
 📍 Edmonton, Alberta
+
+💻 Interests:<br>
+• Software Engineering<br>
+• Machine Learning<br>
+• Data Science<br>
 
 </td>
 </tr>
