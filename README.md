@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <table>
 <tr>
 
@@ -13,8 +11,9 @@
 
 # Hi, I'm Ipsa 🌷
 
-🎓 **3rd Year Computer Science Student** @ University of Alberta
-
+🎓 4th Year Computer Science Student @ University of Alberta<br>
+🤖 Prev AI4Good Lab Fellow @ Amii<br>
+💼 Current AI/ML Mentee @ RBC Borealis<br>
 📍 Edmonton, Alberta
 
 </td>
