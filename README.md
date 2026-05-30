@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-<!--
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ipsamanhas&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ipsamanhas&layout=compact)!--
 **ipsamanhas/ipsamanhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
