@@ -18,3 +18,8 @@
 </td>
 </tr>
 </table>
+
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ipsamanhas&theme=rose-pine)
