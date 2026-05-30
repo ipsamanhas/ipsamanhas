@@ -2,7 +2,7 @@
 <tr>
 <td width="45%" valign="top">
 
-<img src="image-removebg-preview.png" width="350">
+<img src="image-removebg-preview.png" width="360">
 
 </td>
 
@@ -19,6 +19,8 @@
 • Software Engineering<br>
 • Machine Learning<br>
 • Data Science<br>
+
+A fun fact about me: I have done my schooling in 9 different schools across 4 different countries! 
 
 </td>
 </tr>
