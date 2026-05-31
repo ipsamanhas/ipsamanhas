@@ -26,32 +26,9 @@ A fun fact about me: I have done my schooling in 9 different schools across 4 di
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="60%" valign="top">
 
 ## 📊 GitHub Stats
 
 <img src="https://streak-stats.demolab.com?user=ipsamanhas&theme=rose-pine" width="100%" />
 
-</td>
 
-<td width="500%" valign="top">
-
-## Featured Projects
-
-### InclusiTrip
-Award-winning accessibility-focused travel platform  
-3rd Place @ natIgnite 2026 🥉 
-<br>
-### SkinBuddy
-AI-powered skin health triage application  
-Built during RBC Let's Solve It
-<br>
-### ResiSense
-Data-driven recommendation system helping newcomers find suitable Edmonton neighbourhoods
-Built during the AI4Good Lab
-
-</td>
-</tr>
-</table>
