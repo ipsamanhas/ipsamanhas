@@ -11,8 +11,9 @@
 <h1>Hi, I'm Ipsa 🌷</h1>
 
 🎓 4th year Computer Science Student @ University of Alberta<br>
+💼 Incoming Machine Learning Intern @ AltaML
+🤖 Previous AI/ML Mentee @ RBC Borealis<br>
 🤖 Previous AI4Good Lab Fellow @ Amii<br>
-💼 Current AI/ML Mentee @ RBC Borealis<br>
 📍 Edmonton, Alberta
 
 💻 Interests:<br>
